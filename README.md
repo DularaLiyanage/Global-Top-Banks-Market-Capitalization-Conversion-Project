@@ -1,0 +1,2 @@
+# Global-Top-Banks-Market-Capitalization-Conversion-Project
+ Developed an ELT (Extract, Load, Transform) solution to extract and  convert market capitalization data of the top 10 largest banks into  USD, GBP, EUR, and INR. The project involved implementing functions  for data extraction, loading into a SQL database, transforming the data  using exchange rates, and storing it in both CSV and SQL formats. 
